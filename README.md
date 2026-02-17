@@ -5,20 +5,20 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+TypeScript+%7C+Python+%7C+PHP;Laravel+%7C+React+%7C+Vue+%7C+HTML%2FCSS;Construindo+solu%C3%A7%C3%B5es+completas+e+escal%C3%A1veis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+TypeScript+%7C+Python+%7C+PHP;Laravel+%7C+React+%7C+Vue;Construindo+solu%C3%A7%C3%B5es+completas+e+escal%C3%A1veis+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- BADGES DE PERFIL -->
-<a href="https://github.com/awesomingofficial">
-  <img src="https://komarev.com/ghpvc/?username=awesomingofficial&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=awesomingofficial&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
 <a href="https://github.com/awesomingofficial?tab=followers">
   <img src="https://img.shields.io/github/followers/awesomingofficial?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
 </a>
-<a href="https://github.com/awesomingofficial?tab=stars">
-  <img src="https://img.shields.io/github/stars/awesomingofficial?style=for-the-badge&color=f59e0b&labelColor=0d1117&label=STARS+EARNED" alt="Stars"/>
+&nbsp;
+<a href="https://github.com/awesomingofficial?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOS-see%20all-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repos"/>
 </a>
 
 </div>
@@ -37,7 +37,9 @@ const awesoming = {
   stack:      ["Java", "TypeScript", "Python", "PHP", "Laravel", "React", "Vue"],
   principios: ["Clean Code", "Escalabilidade", "Performance"],
   atualmente: "Construindo soluções que importam 🚀",
+  instagram:  "@yarkandev",
   discord:    "discord.gg/zarpium",
+  whatsapp:   "wa.me/+5584999591257",
 };
 ```
 
@@ -51,19 +53,25 @@ const awesoming = {
 
 **Core Languages**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=java,js,ts,py,php&perline=5" /></a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,php&perline=5" />
+</a>
 
 <br/>
 
 **Frameworks & Frontend**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=laravel,react,vue,html,css&perline=5" /></a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=laravel,react,vue,html,css&perline=5" />
+</a>
 
 <br/>
 
 **Tools & Infra**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&perline=5" /></a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,mysql,vscode&perline=5" />
+</a>
 
 </div>
 
@@ -75,17 +83,17 @@ const awesoming = {
 
 <br/>
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=awesomingofficial&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9&ring_color=7c3aed"/>
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesomingofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=awesomingofficial&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9&ring_color=7c3aed" alt="GitHub Stats"/>
+&nbsp;
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesomingofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Langs"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=awesomingofficial&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak"/>
+<img width="60%" src="https://streak-stats.demolab.com/?user=awesomingofficial&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- GRÁFICO DE ATIVIDADE -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=awesomingofficial&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed&hide_border=true" alt="Activity Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=awesomingofficial&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&custom_title=Awesoming's%20Contribution%20Graph" alt="Activity Graph"/>
 
 </div>
 
@@ -97,7 +105,7 @@ const awesoming = {
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=awesomingofficial&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=awesomingofficial&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
 
 </div>
 
@@ -109,14 +117,33 @@ const awesoming = {
 
 <br/>
 
-<!-- PINNED REPOS — automáticos, sempre atualizados -->
-<a href="https://github.com/awesomingofficial">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=awesomingofficial&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
+<!--
+  ✏️  COMO USAR: substitua NOME_DO_REPO pelo nome exato de cada repositório seu.
+  Exemplo: github.com/awesomingofficial/zarpium-bot → repo=zarpium-bot
+  Você pode ter até 6 cards aqui (3 linhas de 2).
+-->
+
+<a href="https://github.com/awesomingofficial/NOME_DO_REPO_1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=NOME_DO_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
+</a>
+&nbsp;
+<a href="https://github.com/awesomingofficial/NOME_DO_REPO_2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=NOME_DO_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
 </a>
 
 <br/><br/>
 
-> 💡 **Explore todos os meus repositórios** → [github.com/awesomingofficial](https://github.com/awesomingofficial?tab=repositories)
+<a href="https://github.com/awesomingofficial/NOME_DO_REPO_3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=NOME_DO_REPO_3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
+</a>
+&nbsp;
+<a href="https://github.com/awesomingofficial/NOME_DO_REPO_4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=NOME_DO_REPO_4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
+</a>
+
+<br/><br/>
+
+> 🗂️ **Ver todos os repositórios** → [github.com/awesomingofficial](https://github.com/awesomingofficial?tab=repositories&sort=stargazers)
 
 </div>
 
@@ -130,6 +157,14 @@ const awesoming = {
 
 <a href="https://discord.gg/zarpium">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/yarkandev">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="https://wa.me/+5584999591257">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 &nbsp;
 <a href="https://github.com/awesomingofficial">
