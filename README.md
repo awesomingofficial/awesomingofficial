@@ -101,38 +101,46 @@ const awesoming = {
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=awesomingofficial&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🔥 Projetos em Destaque
 
 <br/>
 
+<!-- ── BotDM-Discord ── -->
 <a href="https://github.com/awesomingofficial/BotDM-Discord">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=BotDM-Discord&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/awesomingofficial/Bot-de-Vendas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=Bot-de-Vendas&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
+  <img src="https://img.shields.io/badge/BotDM--Discord-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0d1117" alt="BotDM-Discord"/>
+  <img src="https://img.shields.io/github/stars/awesomingofficial/BotDM-Discord?style=for-the-badge&color=f59e0b&labelColor=0d1117&logo=star&label=STARS" alt="stars"/>
+  <img src="https://img.shields.io/github/forks/awesomingofficial/BotDM-Discord?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=git-fork&label=FORKS" alt="forks"/>
+  <img src="https://img.shields.io/github/languages/top/awesomingofficial/BotDM-Discord?style=for-the-badge&labelColor=0d1117&color=a78bfa" alt="language"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/awesomingofficial/MushMC-Status">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=MushMC-Status&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
+<!-- ── Bot-de-Vendas ── -->
+<a href="https://github.com/awesomingofficial/Bot-de-Vendas">
+  <img src="https://img.shields.io/badge/Bot--de--Vendas-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0d1117" alt="Bot-de-Vendas"/>
+  <img src="https://img.shields.io/github/stars/awesomingofficial/Bot-de-Vendas?style=for-the-badge&color=f59e0b&labelColor=0d1117&logo=star&label=STARS" alt="stars"/>
+  <img src="https://img.shields.io/github/forks/awesomingofficial/Bot-de-Vendas?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=git-fork&label=FORKS" alt="forks"/>
+  <img src="https://img.shields.io/github/languages/top/awesomingofficial/Bot-de-Vendas?style=for-the-badge&labelColor=0d1117&color=a78bfa" alt="language"/>
 </a>
-&nbsp;
+
+<br/><br/>
+
+<!-- ── MushMC-Status ── -->
+<a href="https://github.com/awesomingofficial/MushMC-Status">
+  <img src="https://img.shields.io/badge/MushMC--Status-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0d1117" alt="MushMC-Status"/>
+  <img src="https://img.shields.io/github/stars/awesomingofficial/MushMC-Status?style=for-the-badge&color=f59e0b&labelColor=0d1117&logo=star&label=STARS" alt="stars"/>
+  <img src="https://img.shields.io/github/forks/awesomingofficial/MushMC-Status?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=git-fork&label=FORKS" alt="forks"/>
+  <img src="https://img.shields.io/github/languages/top/awesomingofficial/MushMC-Status?style=for-the-badge&labelColor=0d1117&color=a78bfa" alt="language"/>
+</a>
+
+<br/><br/>
+
+<!-- ── FlameMC-Status ── -->
 <a href="https://github.com/awesomingofficial/FlameMC-Status">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=FlameMC-Status&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
+  <img src="https://img.shields.io/badge/FlameMC--Status-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0d1117" alt="FlameMC-Status"/>
+  <img src="https://img.shields.io/github/stars/awesomingofficial/FlameMC-Status?style=for-the-badge&color=f59e0b&labelColor=0d1117&logo=star&label=STARS" alt="stars"/>
+  <img src="https://img.shields.io/github/forks/awesomingofficial/FlameMC-Status?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=git-fork&label=FORKS" alt="forks"/>
+  <img src="https://img.shields.io/github/languages/top/awesomingofficial/FlameMC-Status?style=for-the-badge&labelColor=0d1117&color=a78bfa" alt="language"/>
 </a>
 
 <br/><br/>
@@ -173,5 +181,5 @@ const awesoming = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling"/>
 
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/awesomingofficial">Awesoming</a> — built different.</sub>
+  <sub>⭐ From <a href="https://github.com/awesomingofficial">Awesoming</a></sub>
 </div>
