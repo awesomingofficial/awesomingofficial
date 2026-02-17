@@ -105,7 +105,7 @@ const awesoming = {
 
 <br/>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=awesomingofficial&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=awesomingofficial&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
 
 </div>
 
@@ -117,28 +117,22 @@ const awesoming = {
 
 <br/>
 
-<!--
-  ✏️  COMO USAR: substitua NOME_DO_REPO pelo nome exato de cada repositório seu.
-  Exemplo: github.com/awesomingofficial/zarpium-bot → repo=zarpium-bot
-  Você pode ter até 6 cards aqui (3 linhas de 2).
--->
-
 <a href="https://github.com/awesomingofficial/BotDM-Discord">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=NOME_DO_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=BotDM-Discord&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
 </a>
 &nbsp;
 <a href="https://github.com/awesomingofficial/Bot-de-Vendas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=NOME_DO_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=Bot-de-Vendas&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/awesomingofficial/MushMC-Status">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=NOME_DO_REPO_3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=MushMC-Status&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
 </a>
 &nbsp;
 <a href="https://github.com/awesomingofficial/FlameMC-Status">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=NOME_DO_REPO_4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=FlameMC-Status&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
 </a>
 
 <br/><br/>
@@ -179,5 +173,5 @@ const awesoming = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling"/>
 
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/awesomingofficial">Awesoming</a></sub>
+  <sub>⭐ From <a href="https://github.com/awesomingofficial">Awesoming</a> — built different.</sub>
 </div>
