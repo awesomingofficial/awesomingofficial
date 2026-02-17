@@ -123,21 +123,21 @@ const awesoming = {
   Você pode ter até 6 cards aqui (3 linhas de 2).
 -->
 
-<a href="https://github.com/awesomingofficial/NOME_DO_REPO_1">
+<a href="https://github.com/awesomingofficial/BotDM-Discord">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=NOME_DO_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
 </a>
 &nbsp;
-<a href="https://github.com/awesomingofficial/NOME_DO_REPO_2">
+<a href="https://github.com/awesomingofficial/Bot-de-Vendas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=NOME_DO_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/awesomingofficial/NOME_DO_REPO_3">
+<a href="https://github.com/awesomingofficial/MushMC-Status">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=NOME_DO_REPO_3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
 </a>
 &nbsp;
-<a href="https://github.com/awesomingofficial/NOME_DO_REPO_4">
+<a href="https://github.com/awesomingofficial/FlameMC-Status">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awesomingofficial&repo=NOME_DO_REPO_4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9" />
 </a>
 
