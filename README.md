@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou o Traapey (yepaart)! 👋</h1>
+  <h1>Olá, eu sou o Yarkan (Awesoming)! 👋</h1>
   <p>Desenvolvedor Full Stack apaixonado por construir soluções completas e escaláveis.</p>
 </div>
 
