@@ -83,9 +83,9 @@ const awesoming = {
 
 <br/>
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=awesomingofficial&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9&ring_color=7c3aed" alt="GitHub Stats"/>
+<img height="195" src="https://github-readme-stats-salesp07.vercel.app/api?username=awesomingofficial&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9&ring_color=7c3aed" alt="GitHub Stats"/>
 &nbsp;
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesomingofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Langs"/>
+<img height="195" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=awesomingofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Langs"/>
 
 <br/><br/>
 
