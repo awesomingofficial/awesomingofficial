@@ -38,7 +38,8 @@ const awesoming = {
   principios: ["Clean Code", "Escalabilidade", "Performance"],
   atualmente: "Construindo soluções que importam 🚀",
   instagram:  "@yarkandev",
-  discord:    "discord.gg/zarpium",
+  discord:    "awesomingofficial",
+  Zarpium:    "discord.gg/zarpium / zarpium.net"
   whatsapp:   "wa.me/+5584999591257",
 };
 ```
