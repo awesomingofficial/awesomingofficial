@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yarkan%20(Awesoming)&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20things%20that%20matter&descAlignY=60&descSize=16&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Awesoming&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20things%20that%20matter&descAlignY=60&descSize=16&descColor=a78bfa"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -31,14 +31,12 @@
 
 ```typescript
 const awesoming = {
-  nome:       "Yarkan",
   alias:      "Awesoming",
   foco:       "Full Stack Development",
   stack:      ["Java", "TypeScript", "Python", "PHP", "Laravel", "React", "Vue"],
   principios: ["Clean Code", "Escalabilidade", "Performance"],
   atualmente: "Construindo soluções que importam 🚀",
-  instagram:  "@yarkandev",
-  discord:    "awesomingofficial",
+  discord:    "euawe",
   Zarpium:    "discord.gg/zarpium / zarpium.net",
   whatsapp:   "wa.me/+5584999591257",
 };
@@ -160,10 +158,6 @@ const awesoming = {
 
 <a href="https://discord.gg/zarpium">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/yarkandev">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 &nbsp;
 <a href="https://wa.me/+5584999591257">
