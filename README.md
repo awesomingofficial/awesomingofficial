@@ -1,35 +1,9 @@
-<div align="center">
-
-<!-- HEADER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Awesoming&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20things%20that%20matter&descAlignY=60&descSize=16&descColor=a78bfa"/>
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+TypeScript+%7C+Python+%7C+PHP;Laravel+%7C+React+%7C+Vue;Construindo+solu%C3%A7%C3%B5es+completas+e+escal%C3%A1veis+%E2%9A%A1" alt="Typing SVG" />
-</a>
+<div align="center"> <!-- HEADER ANIMADO --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Awesoming&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20things%20that%20matter&descAlignY=60&descSize=16&descColor=a78bfa"/> <!-- TYPING ANIMATION --> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+TypeScript+%7C+Python+%7C+PHP;Laravel+%7C+React+%7C+Vue;Construindo+solu%C3%A7%C3%B5es+completas+e+escal%C3%A1veis+%E2%9A%A1" alt="Typing SVG" /> </a>
 
 <br/><br/>
 
-<!-- BADGES DE PERFIL -->
-<img src="https://komarev.com/ghpvc/?username=awesomingofficial&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/awesomingofficial?tab=followers">
-  <img src="https://img.shields.io/github/followers/awesomingofficial?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
-</a>
-&nbsp;
-<a href="https://github.com/awesomingofficial?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOS-see%20all-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repos"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-## ⚡ Sobre mim
-
-```typescript
+<!-- BADGES DE PERFIL --> <img src="https://komarev.com/ghpvc/?username=awesomingofficial&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/> &nbsp; <a href="https://github.com/awesomingofficial?tab=followers"> <img src="https://img.shields.io/github/followers/awesomingofficial?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/> </a> &nbsp; <a href="https://github.com/awesomingofficial?tab=repositories"> <img src="https://img.shields.io/badge/REPOS-see%20all-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repos"/> </a> </div> <br/>
+⚡ Sobre mim
 const awesoming = {
   alias:      "Awesoming",
   foco:       "Full Stack Development",
@@ -39,7 +13,8 @@ const awesoming = {
   discord:    "euawe",
   Zarpium:    "discord.gg/zarpium / zarpium.net",
   whatsapp:   "wa.me/+5584999591257",
-};<div align="center">
+};
+<div align="center">
 🚀 Tech Stack
 <br/>
 
@@ -83,9 +58,9 @@ Tools & Infra
 
 <br/><br/>
 
-🗂️ Ver todos os repositórios → https://github.com/awesomingofficial?tab=repositories&sort=stargazers
+🗂️ Ver todos os repositórios → github.com/awesomingofficial
 
 </div>
 <div align="center">
 📫 Contato
-<br/> <a href="https://discord.gg/zarpium"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> </a> &nbsp; <a href="https://wa.me/+5584999591257"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/> </a> &nbsp; <a href="https://github.com/awesomingofficial"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div> <br/> <!-- FOOTER ANIMADO --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling"/> ```
+<br/> <a href="https://discord.gg/zarpium"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> </a> &nbsp; <a href="https://wa.me/+5584999591257"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/> </a> &nbsp; <a href="https://github.com/awesomingofficial"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div> <br/> <!-- FOOTER ANIMADO --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling"/> ---
