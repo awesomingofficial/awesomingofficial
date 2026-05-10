@@ -11,13 +11,13 @@
 <br/><br/>
 
 <!-- BADGES DE PERFIL -->
-<img src="https://komarev.com/ghpvc/?username=awesomingofficial&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=yarkandev&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
-<a href="https://github.com/awesomingofficial?tab=followers">
-  <img src="https://img.shields.io/github/followers/awesomingofficial?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
+<a href="https://github.com/yarkandev?tab=followers">
+  <img src="https://img.shields.io/github/followers/yarkandev?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
 </a>
 &nbsp;
-<a href="https://github.com/awesomingofficial?tab=repositories">
+<a href="https://github.com/yarkandev?tab=repositories">
   <img src="https://img.shields.io/badge/REPOS-see%20all-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repos"/>
 </a>
 
@@ -82,17 +82,17 @@ const awesoming = {
 
 <br/>
 
-<img height="195" src="https://github-readme-stats-salesp07.vercel.app/api?username=awesomingofficial&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9&ring_color=7c3aed" alt="GitHub Stats"/>
+<img height="195" src="https://github-readme-stats-salesp07.vercel.app/api?username=yarkandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9&ring_color=7c3aed" alt="GitHub Stats"/>
 &nbsp;
-<img height="195" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=awesomingofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Langs"/>
+<img height="195" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=yarkandev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Langs"/>
 
 <br/><br/>
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=awesomingofficial&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak"/>
+<img width="60%" src="https://streak-stats.demolab.com/?user=yarkandev&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=awesomingofficial&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&custom_title=Awesoming's%20Contribution%20Graph" alt="Activity Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yarkandev&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&custom_title=Awesoming's%20Contribution%20Graph" alt="Activity Graph"/>
 
 </div>
 
@@ -105,46 +105,46 @@ const awesoming = {
 <br/>
 
 <!-- ── BotDM-Discord ── -->
-<a href="https://github.com/awesomingofficial/BotDM-Discord">
+<a href="https://github.com/yarkandev/BotDM-Discord">
   <img src="https://img.shields.io/badge/BotDM--Discord-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0d1117" alt="BotDM-Discord"/>
-  <img src="https://img.shields.io/github/stars/awesomingofficial/BotDM-Discord?style=for-the-badge&color=f59e0b&labelColor=0d1117&logo=star&label=STARS" alt="stars"/>
-  <img src="https://img.shields.io/github/forks/awesomingofficial/BotDM-Discord?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=git-fork&label=FORKS" alt="forks"/>
-  <img src="https://img.shields.io/github/languages/top/awesomingofficial/BotDM-Discord?style=for-the-badge&labelColor=0d1117&color=a78bfa" alt="language"/>
+  <img src="https://img.shields.io/github/stars/yarkandev/BotDM-Discord?style=for-the-badge&color=f59e0b&labelColor=0d1117&logo=star&label=STARS" alt="stars"/>
+  <img src="https://img.shields.io/github/forks/yarkandev/BotDM-Discord?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=git-fork&label=FORKS" alt="forks"/>
+  <img src="https://img.shields.io/github/languages/top/yarkandev/BotDM-Discord?style=for-the-badge&labelColor=0d1117&color=a78bfa" alt="language"/>
 </a>
 
 <br/><br/>
 
 <!-- ── Bot-de-Vendas ── -->
-<a href="https://github.com/awesomingofficial/Bot-de-Vendas">
+<a href="https://github.com/yarkandev/Bot-de-Vendas">
   <img src="https://img.shields.io/badge/Bot--de--Vendas-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0d1117" alt="Bot-de-Vendas"/>
-  <img src="https://img.shields.io/github/stars/awesomingofficial/Bot-de-Vendas?style=for-the-badge&color=f59e0b&labelColor=0d1117&logo=star&label=STARS" alt="stars"/>
-  <img src="https://img.shields.io/github/forks/awesomingofficial/Bot-de-Vendas?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=git-fork&label=FORKS" alt="forks"/>
-  <img src="https://img.shields.io/github/languages/top/awesomingofficial/Bot-de-Vendas?style=for-the-badge&labelColor=0d1117&color=a78bfa" alt="language"/>
+  <img src="https://img.shields.io/github/stars/yarkandev/Bot-de-Vendas?style=for-the-badge&color=f59e0b&labelColor=0d1117&logo=star&label=STARS" alt="stars"/>
+  <img src="https://img.shields.io/github/forks/yarkandev/Bot-de-Vendas?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=git-fork&label=FORKS" alt="forks"/>
+  <img src="https://img.shields.io/github/languages/top/yarkandev/Bot-de-Vendas?style=for-the-badge&labelColor=0d1117&color=a78bfa" alt="language"/>
 </a>
 
 <br/><br/>
 
 <!-- ── MushMC-Status ── -->
-<a href="https://github.com/awesomingofficial/MushMC-Status">
+<a href="https://github.com/yarkandev/MushMC-Status">
   <img src="https://img.shields.io/badge/MushMC--Status-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0d1117" alt="MushMC-Status"/>
-  <img src="https://img.shields.io/github/stars/awesomingofficial/MushMC-Status?style=for-the-badge&color=f59e0b&labelColor=0d1117&logo=star&label=STARS" alt="stars"/>
-  <img src="https://img.shields.io/github/forks/awesomingofficial/MushMC-Status?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=git-fork&label=FORKS" alt="forks"/>
-  <img src="https://img.shields.io/github/languages/top/awesomingofficial/MushMC-Status?style=for-the-badge&labelColor=0d1117&color=a78bfa" alt="language"/>
+  <img src="https://img.shields.io/github/stars/yarkandev/MushMC-Status?style=for-the-badge&color=f59e0b&labelColor=0d1117&logo=star&label=STARS" alt="stars"/>
+  <img src="https://img.shields.io/github/forks/yarkandev/MushMC-Status?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=git-fork&label=FORKS" alt="forks"/>
+  <img src="https://img.shields.io/github/languages/top/yarkandev/MushMC-Status?style=for-the-badge&labelColor=0d1117&color=a78bfa" alt="language"/>
 </a>
 
 <br/><br/>
 
 <!-- ── FlameMC-Status ── -->
-<a href="https://github.com/awesomingofficial/FlameMC-Status">
+<a href="https://github.com/yarkandev/FlameMC-Status">
   <img src="https://img.shields.io/badge/FlameMC--Status-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0d1117" alt="FlameMC-Status"/>
-  <img src="https://img.shields.io/github/stars/awesomingofficial/FlameMC-Status?style=for-the-badge&color=f59e0b&labelColor=0d1117&logo=star&label=STARS" alt="stars"/>
-  <img src="https://img.shields.io/github/forks/awesomingofficial/FlameMC-Status?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=git-fork&label=FORKS" alt="forks"/>
-  <img src="https://img.shields.io/github/languages/top/awesomingofficial/FlameMC-Status?style=for-the-badge&labelColor=0d1117&color=a78bfa" alt="language"/>
+  <img src="https://img.shields.io/github/stars/yarkandev/FlameMC-Status?style=for-the-badge&color=f59e0b&labelColor=0d1117&logo=star&label=STARS" alt="stars"/>
+  <img src="https://img.shields.io/github/forks/yarkandev/FlameMC-Status?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=git-fork&label=FORKS" alt="forks"/>
+  <img src="https://img.shields.io/github/languages/top/yarkandev/FlameMC-Status?style=for-the-badge&labelColor=0d1117&color=a78bfa" alt="language"/>
 </a>
 
 <br/><br/>
 
-> 🗂️ **Ver todos os repositórios** → [github.com/awesomingofficial](https://github.com/awesomingofficial?tab=repositories&sort=stargazers)
+> 🗂️ **Ver todos os repositórios** → [github.com/yarkandev](https://github.com/yarkandev?tab=repositories&sort=stargazers)
 
 </div>
 
@@ -164,7 +164,7 @@ const awesoming = {
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 &nbsp;
-<a href="https://github.com/awesomingofficial">
+<a href="https://github.com/yarkandev">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
